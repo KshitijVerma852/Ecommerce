@@ -22,3 +22,4 @@ yarn-debug.log*
 yarn-error.log*
 © 2021 GitHub, Inc.
 /backend/config/
+/backend/httpRequests/

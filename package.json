@@ -20,7 +20,6 @@
     "prettier": "^2.5.1"
   },
   "prettier": {
-    "singleQuote": true,
     "useTabs": true,
     "tabWidth": 4,
     "trailingComma": "none"
